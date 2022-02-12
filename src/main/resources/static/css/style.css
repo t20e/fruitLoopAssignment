@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+h1{
+	color:pink;
+}
+
+#contentHolder{
+	margin:0px auto;
+	width:600px;
+	height:auto;
+	display:flex;
+	border:50px solid pink;
+	justify-content: center ;
+	align-items:center;
+	flex-direction:column
+}
+table thead tr th{
+	padding-left:20px;
+}
+table tbody tr td{
+	padding-left:20px;
+}
+table thead tr th{
+	border : 2px solid pink;
+}
+td{
+	border : 2px solid pink;
+}
